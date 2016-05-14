@@ -1,0 +1,21 @@
+{
+  "name": "gulp-starter",
+  "version": "1.0.0",
+  "description": "Development testing",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindgriot/gulp-starter.git"
+  },
+  "author": "phil|code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mindgriot/gulp-starter/issues"
+  },
+  "homepage": "https://github.com/mindgriot/gulp-starter#readme"
+}
